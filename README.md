@@ -1,14 +1,29 @@
-# 👋 Hi, I'm Charan Sandaka!
+# 👋 Hi, I'm Charan Sandaka
 
-A passionate **AI/ML Developer** who loves building intelligent applications, working with data, and creating developer tools.
+I am passionate about building technology that solves real-world problems through **Artificial Intelligence, Machine Learning, and Intelligent Automation**.
+
+My interests span **AI Agents, Large Language Models (LLMs), Data Science, and Product Development**. I enjoy transforming complex ideas into working solutions, experimenting with emerging technologies, and continuously improving through hands-on development.
+
+I believe the best way to learn is by building. Whether it's developing AI-powered applications, exploring intelligent systems, or creating tools that simplify developer workflows, I'm always looking for opportunities to challenge myself and grow as an engineer.
 
 ---
 
-### 🚀 About Me
+### 🚀 Currently Exploring
 
-* 👋 **Introduction** — Passionate about artificial intelligence, large language models (LLMs), and creating AI applications.
-* 📊 **Databases & Data** — Experienced in designing database structures and writing SQL queries to store and manage data.
-* 💻 **Software Development** — Writing clean, readable Python code and building modular software features.
+*   **Artificial Intelligence & Machine Learning**
+*   **Large Language Models (LLMs)**
+*   **AI Agents & Agentic Workflows**
+*   **Data Science & Analytics**
+*   **Intelligent Automation**
+*   **Product Engineering**
+
+---
+
+### 💡 What Motivates Me
+
+I am fascinated by systems that can learn, reason, and assist people in solving problems more effectively. My goal is to build impactful technology that combines innovation, usability, and real-world value.
+
+> *Curious by nature. Builder by mindset. Always learning.*
 
 ---
 
