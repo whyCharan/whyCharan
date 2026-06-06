@@ -21,7 +21,6 @@ A passionate **AI/ML Developer** who loves building intelligent applications, wo
   <br/>
   <!-- AI / ML Frameworks & Orchestration -->
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-071D49?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <br/>
@@ -50,19 +49,10 @@ A passionate **AI/ML Developer** who loves building intelligent applications, wo
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyCharan&show_icons=true&theme=tokyonight&hide_border=true" alt="Charan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyCharan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/charan-sandaka" target="_blank">
+  <a href="https://www.linkedin.com/in/charan-sandaka-6b2293287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:charan.sandaka5@gmail.com" target="_blank">
