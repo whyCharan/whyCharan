@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Charan Sandaka!
 
-A passionate **AI/ML Engineer** focused on building robust AI developer tools, local-first LLM infrastructure, and deploying production-ready machine learning solutions.
+A passionate **AI/ML Engineer** focused on building robust AI developer tools, LLM infrastructure, and deploying production-ready machine learning solutions.
 
 ---
 
 ### 🚀 About Me
 
 * 🛠️ **AI Tooling & LLM Infrastructure** — Creator of [PromptVault](https://github.com/whyCharan/promptvault), a local-first MLflow for prompt engineering.
-* 📊 **Data Engineering** — Designing robust schemas (SQLite/PostgreSQL) and SQLAlchemy/Alembic workflows for prompt versioning and LLM run logging.
+* 📊 **Database Design & SQL** — Designing relational database schemas and writing queries for prompt versioning and logging.
 * ⚡ **Performance & Clean Code** — Writing clean, typed, and fully tested Python code (pytest, ruff, mypy) for AI-powered backends.
 
 ---
@@ -27,13 +27,7 @@ A passionate **AI/ML Engineer** focused on building robust AI developer tools, l
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <br/>
-  <!-- Backend & Databases & Systems -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <!-- Tooling -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -43,7 +37,7 @@ A passionate **AI/ML Engineer** focused on building robust AI developer tools, l
 
 #### 📂 [PromptVault](https://github.com/whyCharan/promptvault)
 *Local-first, open-source developer tool for prompt versioning, testing, and comparison.*
-- **Core Stack**: FastAPI, SQLite/PostgreSQL, SQLAlchemy 2.0, Alembic, Typer CLI, LiteLLM.
+- **Core Stack**: Python, SQL, CLI, LiteLLM.
 - **Key Features**: Auto-versioning, character-level side-by-side diffing, dynamic playground with multi-provider proxy, parallel A/B evaluation.
 
 ---
