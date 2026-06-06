@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Charan Sandaka!
 
-A passionate **Full-Stack & AI Developer** focused on building robust developer tools, local-first architectures, and high-performance AI-powered web applications.
+A passionate **AI/ML Engineer** focused on building robust AI developer tools, local-first LLM infrastructure, and deploying production-ready machine learning solutions.
 
 ---
 
 ### 🚀 About Me
 
-* 🛠️ **Developer Experience & Tooling** — Creator of projects like [PromptVault](https://github.com/whyCharan/promptvault), a local-first MLflow for prompt engineering.
-* 📦 **Lightweight Architectures** — Focused on single-process packaging, local SQLite/PostgreSQL setups, and robust SQLAlchemy/Alembic database migrations.
-* ⚡ **Performance & Clean Code** — Writing clean, typed, and fully tested code (pytest, ruff, mypy) in both Python and React.
+* 🛠️ **AI Tooling & LLM Infrastructure** — Creator of [PromptVault](https://github.com/whyCharan/promptvault), a local-first MLflow for prompt engineering.
+* 📊 **Data Engineering** — Designing robust schemas (SQLite/PostgreSQL) and SQLAlchemy/Alembic workflows for prompt versioning and LLM run logging.
+* ⚡ **Performance & Clean Code** — Writing clean, typed, and fully tested Python code (pytest, ruff, mypy) for AI-powered backends.
 
 ---
 
@@ -17,23 +17,22 @@ A passionate **Full-Stack & AI Developer** focused on building robust developer 
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <br/>
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <!-- AI / ML Frameworks -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <br/>
+  <!-- Backend & Databases & Systems -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <br/>
-  <!-- Databases & Systems -->
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -44,8 +43,7 @@ A passionate **Full-Stack & AI Developer** focused on building robust developer 
 
 #### 📂 [PromptVault](https://github.com/whyCharan/promptvault)
 *Local-first, open-source developer tool for prompt versioning, testing, and comparison.*
-- **Backend**: FastAPI, SQLite/PostgreSQL, SQLAlchemy 2.0, Alembic, Typer CLI, LiteLLM.
-- **Frontend**: React, Vite, TailwindCSS, client-side diff-match-patch.
+- **Core Stack**: FastAPI, SQLite/PostgreSQL, SQLAlchemy 2.0, Alembic, Typer CLI, LiteLLM.
 - **Key Features**: Auto-versioning, character-level side-by-side diffing, dynamic playground with multi-provider proxy, parallel A/B evaluation.
 
 ---
